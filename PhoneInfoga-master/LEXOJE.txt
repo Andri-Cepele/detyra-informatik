@@ -1,0 +1,2 @@
+Une jam Andri Cepele dhe ky script perdoret per te gjetur informacione(vendodhja,pronesia,tipi i lidhjes) mbi numrat e telefonit te cilet ju i beni input.
+Instruksione:Krijoni nje container Dockeri ne google cloud apo ne ndonje ambient te ngjashem. Aktivizoni kete docker image dhe filloni germimin.
